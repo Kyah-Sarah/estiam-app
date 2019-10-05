@@ -24,7 +24,7 @@ V0.1.0
 
 ### Pre-requirement
 
-First, install theses tools:
+First, install these tools:
 
 - [Python](https://www.python.org)
 - [Android Studio](https://developer.android.com)
