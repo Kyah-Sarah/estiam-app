@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Graph</string>
+    <string name="title_main">Graph</string>
+    <string name="title_one">Number of free bike terminals per station code</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="station_name">Station name</string>
+    <string name="date">Updated at</string>
+    <string name="free_bikes_terminals">Free bike terminals</string>
+</resources>
